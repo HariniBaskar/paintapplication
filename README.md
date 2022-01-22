@@ -211,8 +211,11 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+## Blank Canvas:
 ![look](./output1.PNG)
+## Canvas with different shapes, colors and sizes:
 ![result](./output2.PNG)
+## Alert box for size change:
 ![out](./output3.PNG)
 
 ## Result:
